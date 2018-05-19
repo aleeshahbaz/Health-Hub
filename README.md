@@ -1,0 +1,2 @@
+# Health-Hub
+Health Hub is an artificial intelligence based network in which our primary objective is to get to know about having heart attacks well before time and to provide a platform to doctors where they can have real time monitoring of their patients from all around the world and stay tuned about them by having their health summaries and alerts in case of any abnormalities. Another major part of this project is to provide users a platform to have their instant health check-up anywhere and anytime on just a single click.
